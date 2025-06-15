@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding-bottom: 80px;
+  min-height: 100vh;
+}
+
+.footer {
+  background: linear-gradient(90deg, #bfa980 0%, #a67c52 100%);
+
+  font-family: 'Quicksand', 'Segoe UI', sans-serif;
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  border-top-left-radius: 24px;
+  border-top-right-radius: 24px;
+  box-shadow: 0 -2px 12px #a67c5222;
+  width: 100%;
+  margin: 0;
+  padding: 20px 0;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
